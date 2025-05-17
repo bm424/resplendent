@@ -53,8 +53,8 @@ const chikurnat: Character = {
   traits: {
     Brawn: 1,
     Panache: 3,
-    Resolve: 3,
-    Wits: 4,
+    Resolve: 2,
+    Wits: 3,
     Finesse: 4,
   },
   meta: {
